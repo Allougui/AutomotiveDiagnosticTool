@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "K8fb21ptxcV5vyO+NhhXVhtMpqX2j/CCdvFxOtbj6j0=",
+  "Source": "AutomotiveDiagnosticTool.API",
+  "BasePath": "_content/AutomotiveDiagnosticTool.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
